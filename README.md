@@ -27,6 +27,8 @@ DB 3단계
 9.resources는 images
 -경로를 바꿀 경우 servlet-context.xml에서 추가한다
 
+/////////////////////////////
+
 1.Spring02-01
 
 2.Spirng03-01
