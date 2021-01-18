@@ -27,14 +27,18 @@ DB 3단계
 9.resources는 images
 -경로를 바꿀 경우 servlet-context.xml에서 추가한다
 
-
-/////////////
 1.Spring02-01
+
 2.Spirng03-01
+
 3.Spring03-02
+
 4.Spring04-01 // 중요! 다양한 controller 사용법
+
 5.Spring05-01 // get방식 post방식 같이 쓰는 경우 (버전3방식 + 버전4방식)
+
 6.Spring-Quiz1 // web.xml에 한글 관련 소스! 
+
 7.Spring05-02 // 분기시키기
 
 
