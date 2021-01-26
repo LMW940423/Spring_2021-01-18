@@ -23,10 +23,13 @@ DB 3단계
 5.annotation하나가 시스템 하나다!
 
 6.injection (swift에서도 사용한다)
+
 -new가 미리 들어가 있는 것! (메모리 관리 측면)
+
 -xml에서 정의!
 
 7.DispatcherServlet은 스프링사에서 관리한다.
+
 8.패키지 이름은 중복되면 안된다!
 
 9.resources는 images
